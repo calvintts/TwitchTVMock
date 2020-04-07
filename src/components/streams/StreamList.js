@@ -8,13 +8,13 @@ class StreamList extends Component{
         this.props.fetchStreams()
     }
 
-    renderAdmin = ({userId}) => {
+    renderAdmin = ({userId,id}) => {
         return this.props.currentUserId !== userId?null:(
             <div className="right floated content">
-                <button className="ui button basic positive">
+                <Link to={`/streams/edit/${id}`} className="ui button basic positive">
                     EDIT
-                </button>
-                <button className="ui button basic negative" onClick={this.props.deleteStream()}>
+                </Link>
+                <button className="ui button basic negative" onClick={this.props.deleteStream}>
                     DELETE
                 </button>
             </div>
