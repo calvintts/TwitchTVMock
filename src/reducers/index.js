@@ -7,5 +7,5 @@ export default combineReducers(
     {
         auth:authReducer,
         streams:streamReducer,
-        form: formReducer
+        form: formReducer,
     })

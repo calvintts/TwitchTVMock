@@ -6,7 +6,7 @@ import {
     EDIT_STREAM,
     FETCH_STREAM,
     FETCH_STREAMS,
-    DELETE_STREAM
+    DELETE_STREAM,
 } from './types'
 
 export const createStream = (formValues) => async (dispatch,getState) => {

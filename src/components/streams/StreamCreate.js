@@ -7,13 +7,14 @@ class StreamCreate extends Component{
 
     onSubmit = (formValues) => {
         this.props.createStream(formValues)
+        this.props.reset()
     }
 
     onError = (meta) => {
         console.log(meta)
-        if(!meta.valid && meta.touched && !meta.active)
+        if(!meta.valid && meta.touched && !meta.active && !meta.active)
             return(
-                <div className="ui error message">
+                <div className="ui pointing label">
                     <p>{meta.error}</p>
                 </div>
                 )
