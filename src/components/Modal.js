@@ -15,7 +15,8 @@ class Modal extends Component{
                 <div
                     onClick={this.handlePopupClick}
                     className="ui standard modal visible active">
-                    {this.props.children}
+                    <div className="content">{this.props.content()}</div>
+                    <div className="actions">{this.props.actions()}</div>
                 </div>
             </div>,
                 document.querySelector("#modal")

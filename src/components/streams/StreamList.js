@@ -1,7 +1,7 @@
 import React,{Component} from 'react'
 import {connect} from 'react-redux'
 import {Link} from 'react-router-dom'
-import {fetchStreams, deleteStream} from '../../actions'
+import {fetchStreams} from '../../actions'
 
 class StreamList extends Component{
     componentDidMount() {
@@ -64,4 +64,4 @@ const mapStateToProps = (state) => {
 }
 
 
-export default connect(mapStateToProps,{fetchStreams,deleteStream})(StreamList)
+export default connect(mapStateToProps,{fetchStreams})(StreamList)

@@ -23,7 +23,6 @@ class StreamForm extends Component{
     }
 
     render(){
-        console.log(this.props)
         return(
             <form onSubmit={this.props.handleSubmit(this.props.onSubmit)} className="ui form error">
                 <Field name="title" component={this.renderInput} label="Enter title"/>

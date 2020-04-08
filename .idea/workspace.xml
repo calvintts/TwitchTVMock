@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2c68c0d-95b4-4390-b91d-85eef2af2456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/streams/StreamDelete.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamDelete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/streams/StreamEdit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamEdit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/streams/StreamForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/streams/StreamList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamList.js" afterDir="false" />
     </list>
@@ -83,7 +80,7 @@
       <workItem from="1585931823095" duration="2536000" />
       <workItem from="1586267817913" duration="7320000" />
       <workItem from="1586314023557" duration="730000" />
-      <workItem from="1586353871893" duration="9621000" />
+      <workItem from="1586353871893" duration="15333000" />
     </task>
     <task id="LOCAL-00001" summary="lastest update 04/01/2020">
       <created>1585869776709</created>
@@ -127,28 +124,28 @@
     </state>
     <state x="1065" y="57" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586268657228" />
     <state x="1065" y="57" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585869789362" />
-    <state width="1899" height="262" key="GridCell.Tab.0.bottom" timestamp="1586374170648">
+    <state width="1899" height="262" key="GridCell.Tab.0.bottom" timestamp="1586380257609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586374170648" />
+    <state width="1899" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586380257609" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1584854937347" />
     <state width="910" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585643812128" />
-    <state width="1899" height="262" key="GridCell.Tab.0.center" timestamp="1586374170648">
+    <state width="1899" height="262" key="GridCell.Tab.0.center" timestamp="1586380257609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="262" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586374170648" />
+    <state width="1899" height="262" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586380257609" />
     <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1584854937346" />
     <state width="910" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585643812128" />
-    <state width="1899" height="262" key="GridCell.Tab.0.left" timestamp="1586374170647">
+    <state width="1899" height="262" key="GridCell.Tab.0.left" timestamp="1586380257609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="262" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586374170647" />
+    <state width="1899" height="262" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586380257609" />
     <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1584854937346" />
     <state width="910" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585643812128" />
-    <state width="1899" height="262" key="GridCell.Tab.0.right" timestamp="1586374170648">
+    <state width="1899" height="262" key="GridCell.Tab.0.right" timestamp="1586380257609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="262" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586374170648" />
+    <state width="1899" height="262" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586380257609" />
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1584854937346" />
     <state width="910" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585643812128" />
     <state x="0" y="166" key="SettingsEditor" timestamp="1585108668125">
