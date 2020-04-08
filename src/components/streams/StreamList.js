@@ -14,9 +14,9 @@ class StreamList extends Component{
                 <Link to={`/streams/edit/${id}`} className="ui button basic positive">
                     EDIT
                 </Link>
-                <button className="ui button basic negative" onClick={this.props.deleteStream}>
+                <Link to={`/streams/delete/${id}`} className="ui button basic negative">
                     DELETE
-                </button>
+                </Link>
             </div>
         )
     }
